@@ -40,13 +40,15 @@ padding-top: 60px;
 }
 #topSection{
 
-    background-color: rgb(53, 53, 91);
+    background-color:#2a3849;
+    
 }
 
 
 #topSection img{
-width: 150px;
+width: 140px;
 padding-bottom: 1em;
+padding-left: 1em;
 
 
 }
@@ -67,4 +69,50 @@ nav a{
 }
 body{
     background-color: rgb(230, 228, 228);
+}
+
+
+#gaming img{width: 1400px;
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    margin: 20px auto;
+
+}
+#gaming h4{
+    text-align: center;
+    margin: auto;
+}
+#sound img{width: 1400px;
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    margin: 20px auto;
+
+}
+#sound h4{
+    text-align: center;
+    margin: auto;
+    
+}
+footer p {
+    margin: auto;
+    margin-top: 2em;
+    text-align: center;
+    background-color: rgb(2, 76, 76);
+    padding-bottom: 1em;
+    padding-top: 1em;
+
+}
+footer p a {
+    color: white
+}
+footer img {
+    width: 150px;
+margin:auto;
+display: block;
+padding: 2em;
+}
+footer div {
+    background-color:#2a3849;
 }
